@@ -1,0 +1,170 @@
+body{
+    margin: 0%;
+}
+.navbar{
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 700px;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: small;
+}
+.second{
+    border: 2px solid white;
+    background-color: white;
+    display: flex;
+    gap: 100px;
+    justify-content: space-around;
+}
+.zay1{
+    color: green;
+    font-size: larger;
+    font-weight: bold;
+}
+.tags{
+    display: flex;
+    gap: 50px;
+    padding-top: 3px;
+    font-size: large;
+}
+.main{
+    border: 2px  solid rgb(211, 206, 206);
+    height: 400px;
+   background-color: #efeeee;
+   display: flex;
+   gap: 40px;
+   flex-direction: row;
+}
+img{
+    height: 400px;
+    width: 600px;
+}
+.color{
+    color: green;
+    font-size: larger;
+    padding-left: 60px;
+    padding-top: 150px;
+}
+.color2{
+    font-size: small;
+    color: black;
+}
+.categories{
+    text-align: center;
+}
+.ss{
+    font-size: 2rem;
+}
+.items{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+}
+.items2 img{
+   width: 150px;
+   height: 150px;
+   object-fit: cover;
+   border-radius: 50%;
+   border: 2px solid rgb(227, 226, 226);
+}
+.INNER{
+    text-align: center;
+}
+button{
+    background-color: rgb(96, 190, 96);
+    border: rgb(96, 190, 96);
+    border-radius: 5PX;
+}
+.colormain{
+    border: 2px solid grey;
+    width: 100%;
+    background-color: rgb(211, 206, 206);
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+.FEATURED{
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}
+.no1{
+    border: 2px solid rgb(214, 211, 211);
+    width: 250px;
+    height: 330px;
+    background-color: white;
+}
+.no1 img{
+    width: 250px;
+    height: 150px;
+}
+.money{
+    display: flex;
+    justify-content: space-around;
+    gap: 70px;
+}
+.fontupr{
+    font-size: larger;
+    margin-left: 5px;
+}
+.fontnec{
+    font-size: small;
+    margin-left: 5px;
+}
+.last-nav{
+    background-color: rgb(31, 30, 30);
+    color: #efeeee;
+}
+.navbarlast{
+    display: flex;
+    gap: 30px;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 300px;
+    padding-left: 150px;
+    padding-right:150px ;
+}
+.lastzay{
+    font-size: larger;
+    color: green;
+}
+.lastzee{
+    font-size: larger;
+}
+.fonts{
+    font-size: x-small;
+}
+.tags2{
+    display: flex;
+    gap: 2px;
+    flex-direction: row;
+}
+.searchtag{
+    display: flex;
+    gap: 0;
+    flex-direction: row;
+}
+.maintag{
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.search{
+    border: 2px solid white;
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+}
+.footer{
+    background-color: black;
+    height: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+
+}
